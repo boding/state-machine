@@ -1,2 +1,2 @@
 # state-machine
-state-machine programmed in cpp.
+state-machine programmed in cs.
